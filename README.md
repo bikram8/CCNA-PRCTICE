@@ -1,2 +1,1 @@
-# CCNA-PRCTICE
-Here i will be providing all the notes and practicle projects of CCNA.
+# CCNA - IP routing technologies, IP services , LAN switching technologies, and WAN technologies hands on practice.
